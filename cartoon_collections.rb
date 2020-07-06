@@ -5,7 +5,7 @@ def square_array(array)
     element * element
   end
 end
-end
+
 
 def summon_captain_planet(planeteer_calls)
   # Use an Enumerable to capitalize and add '!' to every element in the passed in array
